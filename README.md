@@ -9,8 +9,7 @@ The goal is to build a simple and accurate model that helps understand income gr
 ├── data/                                   # Dataset (CSV files)
 
 ├── README.md                               # Documentation
-*sa
-*da
+
 └── images/                                 # Graphs & visualizations
 
 # 🧠 Features
@@ -57,14 +56,6 @@ Open the notebook:
 
 jupyter notebook canada_per_capital_income_check.ipynb
 
-# 📈 Sample Output
-
-Trend line of Canada’s per capita income
-
-Regression model accuracy
-
-Predicted income for future years
-
 # 📚 Dataset
 
 Dataset includes:
@@ -79,3 +70,16 @@ You can replace the sample dataset with updated real Canadian economic data for 
 
 Pull requests are welcome!
 Feel free to open issues for improvements or suggestions.
+
+# 📈 Sample Output
+
+OUTPUT :
+[Output Image Check Here :](https://github.com/AkashTarsariya/Canada-Per-Capital-Income-Predict-Check/blob/main/Predicted%20income%20output%20for%20year%202020.png)
+
+Trend line of Canada’s per capital income
+
+Regression model accuracy
+
+Predicted income for future years
+
+
