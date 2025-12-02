@@ -5,8 +5,12 @@ The goal is to build a simple and accurate model that helps understand income gr
 
 # 📁 Project Structure
 ├── canada_per_capital_income_check.ipynb   # Jupyter Notebook with full workflow
+
 ├── data/                                   # Dataset (CSV files)
+
 ├── README.md                               # Documentation
+*sa
+*da
 └── images/                                 # Graphs & visualizations
 
 # 🧠 Features
@@ -41,7 +45,7 @@ Jupyter Notebook
 
 Clone this repo:
 
-git clone https://github.com/your-username/canada-per-capita-income-predict.git
+git clone [https://github.com/AkashTarsariya/Canada-Per-Capital-Income-Predict-Check.git](https://github.com/AkashTarsariya/Canada-Per-Capital-Income-Predict-Check.git)
 
 
 Install dependencies:
