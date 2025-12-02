@@ -28,17 +28,17 @@ Future income prediction based on trends
 
 # 📊 Tech Stack
 
-Python 3
+- Python 3
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Matplotlib / Seaborn
+- Matplotlib / Seaborn
 
-Scikit-Learn (Linear Regression)
+- Scikit-Learn (Linear Regression)
 
-Jupyter Notebook
+- Jupyter Notebook
 
 # 🚀 How to Run
 
@@ -82,4 +82,6 @@ Regression model accuracy
 
 Predicted income for future years
 
+# 📊 Report Thubnail
 
+![Thumbnail](https://github.com/AkashTarsariya/Canada-Per-Capital-Income-Predict-Check/blob/main/Predicted%20income%20output%20for%20year%202020.png)
